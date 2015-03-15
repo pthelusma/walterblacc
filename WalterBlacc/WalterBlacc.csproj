@@ -231,10 +231,11 @@
     <Content Include="Images\icons\FB-f-Logo__white_57.png" />
     <Content Include="Images\icons\FB-f-Logo__white_58.png" />
     <Content Include="Images\icons\FB-f-Logo__white_72.png" />
-    <Content Include="Images\icons\Twitter_logo_blue_32.png" />
+    <Content Include="Images\icons\Instagram_icon_32.png" />
     <Content Include="Images\icons\Twitter_logo_blue.png" />
-    <Content Include="Images\icons\Twitter_logo_white_32.png" />
+    <Content Include="Images\icons\Twitter_logo_blue_32.png" />
     <Content Include="Images\icons\Twitter_logo_white.png" />
+    <Content Include="Images\icons\Twitter_logo_white_32.png" />
     <Content Include="Scripts\bootstrap.js" />
     <Content Include="Scripts\bootstrap.min.js" />
     <Content Include="Scripts\jquery-2.1.3.js" />
